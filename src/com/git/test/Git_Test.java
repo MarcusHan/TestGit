@@ -18,6 +18,6 @@ public class Git_Test extends Activity
         
         gitContext = this;
         
-        Toast.makeText(gitContext, "Git 테스트 중!", 0).show();
+        Toast.makeText(gitContext, "Git Testing, PHJ. WOW!", 0).show();
     }
 }
