@@ -11,6 +11,6 @@
         android:gravity="center"
         android:textSize="30sp"
         android:textColor="#121212"
-        android:text="Git Test 0.1" />
+        android:text="Git Test 0.333" />
 
 </LinearLayout>
